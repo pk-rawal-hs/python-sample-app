@@ -1,4 +1,3 @@
-import requests
 import httplib2
 
 import mediaLibraryComponent.utils as u
