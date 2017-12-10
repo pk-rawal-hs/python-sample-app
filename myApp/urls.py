@@ -17,7 +17,6 @@ from django.conf.urls import url
 from django.contrib import admin
 
 from mediaLibraryComponent.views import MediaLibraryView
-from myApp.AuthView import Auth
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
